@@ -1,0 +1,30 @@
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\appsettings.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.deps.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.runtimeconfig.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.runtimeconfig.dev.json
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.dll
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.pdb
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.csprojAssemblyReference.cache
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorAssemblyInfo.cache
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorAssemblyInfo.cs
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.AssemblyInfoInputs.cache
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.AssemblyInfo.cs
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorTargetAssemblyInfo.cache
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.dll
+C:\TV Pessoais\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.pdb
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.deps.json
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.runtimeconfig.json
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.runtimeconfig.dev.json
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.dll
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\bin\Debug\netcoreapp2.1\RabbitMQPublisher.pdb
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.csprojAssemblyReference.cache
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.csproj.CoreCompileInputs.cache
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorAssemblyInfo.cache
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorAssemblyInfo.cs
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.AssemblyInfoInputs.cache
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.AssemblyInfo.cs
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.RazorTargetAssemblyInfo.cache
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.dll
+C:\Users\vijay.kumar1\Downloads\Articles\RabbitMQPublisher\RabbitMQPublisher\obj\Debug\netcoreapp2.1\RabbitMQPublisher.pdb
